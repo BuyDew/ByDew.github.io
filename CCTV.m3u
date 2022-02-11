@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1综合频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/index.m3u8
+#EXTINF:-1 ,CCTV2财经频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel2/index.m3u8
+#EXTINF:-1 ,CCTV3综艺频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/index.m3u8
+#EXTINF:-1 ,CCTV4中文国际
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/index.m3u8
+#EXTINF:-1 ,CCTV5体育频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
+#EXTINF:-1 ,CCTV5+体育赛事
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/index.m3u8
+#EXTINF:-1 ,CCTV6电影频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel6/index.m3u8
+#EXTINF:-1 ,CCTV7国防军事
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel7/index.m3u8
+#EXTINF:-1 ,CCTV8电视剧频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel8/index.m3u8
+#EXTINF:-1 ,CCTV9记录频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel9/index.m3u8
+#EXTINF:-1 ,CCTV10科教频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
+#EXTINF:-1 ,CCTV11戏曲频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
+#EXTINF:-1 ,CCTV12社会与法
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel11/index.m3u8
+#EXTINF:-1 ,CCTV13新闻频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
+#EXTINF:-1 ,CCTV14少儿频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
+#EXTINF:-1 ,CCTV15音乐频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
+#EXTINF:-1 ,CCTV16 4K
+http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
+#EXTINF:-1 ,CCTV17 超清
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTINF:-1 ,CGTN国际频道
+http://180.97.123.180/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel15/index.m3u8

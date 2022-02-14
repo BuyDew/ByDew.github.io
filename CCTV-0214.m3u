@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1HD
+http://www.dszbdq.com/guoguo.php?xh=3&url=http://live.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
+#EXTINF:-1 ,CCTV-2HD
+http://39.134.19.8/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+#EXTINF:-1 ,CCTV-3HD
+http://39.134.19.1/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+#EXTINF:-1 ,CCTV-4HD
+http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 ,CCTV-4中文国际欧洲
+http://live.gq.miguvideo.com:8080/migu/kailu/20200324/cctv4ouhd/50/index.m3u8?&encrypt=1
+#EXTINF:-1 ,CCTV-4中文国际美洲
+http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8
+#EXTINF:-1 ,CCTV-5+HD
+http://www.dszbdq.com/guoguo.php?xh=3&url=http://live.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
+#EXTINF:-1 ,CCTV-5HD
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-5hd/1.m3u8
+#EXTINF:-1 ,CCTV-6HD
+http://www.dszbdq.com/guoguo.php?xh=3&url=http://live.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
+#EXTINF:-1 ,CCTV-7HD
+http://39.134.65.175/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 ,CCTV-8HD
+http://39.135.138.58:18890/PLTV/88888888/224/3221225631/index.m3u8
+#EXTINF:-1 ,CCTV-9HD
+http://www.dszbdq.com/guoguo.php?xh=3&url=http://live.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
+#EXTINF:-1 ,CCTV-10HD
+http://ott.js.chinamobile.com/PLTV/4/224/3221228078/index.m3u8
+#EXTINF:-1 ,CCTV-11HD
+http://www.dszbdq.com/guoguo.php?xh=3&url=http://live.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
+#EXTINF:-1 ,CCTV-12HD
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-12hd/1.m3u8
+#EXTINF:-1 ,CCTV-13HD
+http://ott.js.chinamobile.com/PLTV/4/224/3221228121/index.m3u8
+#EXTINF:-1 ,CCTV-14HD
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-14hd/1.m3u8
+#EXTINF:-1 ,CCTV-15HD
+http://ott.js.chinamobile.com/PLTV/4/224/3221227723/index.m3u8
+#EXTINF:-1 ,CCTV-16奥运
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#EXTINF:-1 ,CCTV-17HD
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-17hd/1.m3u8
+#EXTINF:-1 ,CCTV4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 ,CGTN
+http://39.135.138.59:18890/PLTV/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 ,CCTV-怀旧剧场
+http://live.gq.miguvideo.com:8080/ws_v/2018/hjjc/hjjc711/1000/index.m3u8?&encrypt=1
+#EXTINF:-1 ,CCTV-风云剧场
+http://tyzb8081.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=fengyunjuchang_1500CCTV-风云音乐,http://live.gq.miguvideo.com:8080/ws_v/2018/fyyy/fyyy711/1000/index.m3u8?&encrypt=1
+#EXTINF:-1 ,CCTV-兵器科技
+http://live.gq.miguvideo.com:8080/ws_v/2018/gfjs/gfjs711/1000/index.m3u8?&encrypt=1
+#EXTINF:-1 ,CCTV-世界地理
+http://tyzb8081.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=DOXhanliuHD_7000
+#EXTINF:-1 ,CCTV-女性时尚
+http://live.gq.miguvideo.com:8080/ws_v/2018/nxss/nxss711/1000/index.m3u8?&encrypt=1
+#EXTINF:-1 ,CCTV-央视台球
+http://live.gq.miguvideo.com:8080/ws_v/2018/ystq/ystq711/1000/index.m3u8?&encrypt=1
+#EXTINF:-1 ,CCTV-电视指南
+http://117.148.179.147/PLTV/88888888/224/3221231571/index.m3u8
+#EXTINF:-1 ,CCTV-高尔夫网球
+http://live.gq.miguvideo.com:8080/ws_v/2018/gefwq/gefwq711/1000/index.m3u8?&encrypt=1
+#EXTINF:-1 ,CCTV-央视文化精品
+http://tyzb8081.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=DOXyijiaHD_7000
+#EXTINF:-1 ,CCTV-卫生健康
+http://tyzb8081.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=weishengjiankang_1500
+#EXTINF:-1 ,中央新影-老故事
+http://39.135.140.227:6610/PLTV/88888888/224/3221225517/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,中央新影-中学生
+http://129.226.107.32/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 ,中央新影-新科动漫
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
+#EXTINF:-1 ,CNC中文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1 ,CNC英文
+http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
